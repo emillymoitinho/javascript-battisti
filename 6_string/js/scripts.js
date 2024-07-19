@@ -75,3 +75,12 @@ document.write("Ele disse: 'Hello'");
 
 // String + Number 
 console.log("cento e trinta e dois = " + centoeTrinta);
+
+// Uso de string 
+
+let saudacao = "Hello, world!";
+console.log(saudacao)
+
+let resposta = "How are you?";
+let sla = "A resposta é:" + resposta;
+console.log(sla);
