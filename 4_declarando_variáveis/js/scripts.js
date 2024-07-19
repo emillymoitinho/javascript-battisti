@@ -102,3 +102,8 @@ if (idade > 18) {
     console.log(adulto); // Imprime "true"
 }
 
+// Uso de cont:
+
+const PI = 3.14159;
+console.log(PI); // Imprime 3.14159
+
