@@ -93,3 +93,12 @@ console.log(meuNome);
     * const: é para quando teremos um valor fixo para aquela variável.
 
 */
+
+// Uso de let:
+
+let idade = 25;
+if (idade > 18) {
+    let adulto = true;
+    console.log(adulto); // Imprime "true"
+}
+
